@@ -1,0 +1,23 @@
+### Python dependencies ###
+__pycache__/
+*.py[cod]
+*.so
+
+### Virtual environment ###
+venv/
+.env/
+.Python
+
+### FastAPI specific ###
+*.log
+instance/
+
+### Build artifacts ###
+dist/
+build/
+
+### Environment variables ###6gΩ
+.env*
+
+### Logs ###
+logs/
